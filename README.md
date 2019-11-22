@@ -93,6 +93,7 @@ open-source software development:
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v1.4%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md)
 
 ## Continuous build status
+https://github.com/mouse36872/ASS/blob/master/.github/workflows/blank.yml
 
 ### Official Builds
 
